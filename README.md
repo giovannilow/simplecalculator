@@ -12,7 +12,7 @@ Currently working on hosting it, for now, you can fork it and use the source cod
 
 ## Usage
 
-![A screenshot of the Calculator](Calculator/calculator.png?raw=true)
+![A screenshot of the Calculator](/Calculator/calculator.png?raw=true)
 
 ## Contributing
 Pull requests are welcome. I guess lol.
