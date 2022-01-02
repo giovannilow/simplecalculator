@@ -12,7 +12,7 @@ Currently working on hosting it, for now, you can fork it and use the source cod
 
 ## Usage
 
-![Calculator](http://github.com/giovannilow/simplecalculator/calculator.png)
+![Calculator](https://github.com/giovannilow/simplecalculator/blob/main/calculator.png)
 
 ## Contributing
 Pull requests are welcome. I guess lol.
