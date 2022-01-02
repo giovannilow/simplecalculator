@@ -12,6 +12,7 @@ Currently working on hosting it, for now, you can fork it and use the source cod
 
 ## Usage
 
+I think it is self explanatory.
 ![Calculator](https://github.com/giovannilow/simplecalculator/blob/main/calculator.png)
 
 ## Contributing
