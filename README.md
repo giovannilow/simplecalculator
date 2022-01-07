@@ -1,6 +1,7 @@
 # Simple Calculator
 
 Simple Calculator is a really simple calculator. Dead Simple.
+Try it at https://giovannilow.github.io/simplecalculator/
 
 ## Installation
 
