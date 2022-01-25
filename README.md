@@ -5,11 +5,7 @@ Try it at https://giovannilow.github.io/simplecalculator/
 
 ## Installation
 
-Currently working on hosting it, for now, you can fork it and use the source code.
-
-```bash
-*** IN PROGRESS ***
-```
+You can fork it and use the source code. Otherwise, just use the link above!
 
 ## Usage
 
